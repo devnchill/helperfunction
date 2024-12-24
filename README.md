@@ -8,5 +8,4 @@ Repo for my first npm package helperfunction
 
 **Usage**
 
-
-`require("createCustomElement") from "@devnchill/helperfunction"`
+import { createCustomElement } from "@devnchill/helperfunction";
