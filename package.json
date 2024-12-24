@@ -1,0 +1,19 @@
+{
+  "name": "@devnchill/helperfunction",
+  "version": "1.0.0",
+  "description": "A package to store all my helper function",
+  "main": "main.js",
+  "scripts": {
+    "test": "it works !!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devnchill/helperfunction.git"
+  },
+  "author": "DevNChill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devnchill/helperfunction/issues"
+  },
+  "homepage": "https://github.com/devnchill/helperfunction#readme"
+}

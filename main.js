@@ -18,3 +18,4 @@ function createCustomElement({
   classList.forEach((cls) => element.classList.add(cls));
   return element;
 }
+module.exports = {createCustomElement};
